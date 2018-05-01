@@ -1682,7 +1682,7 @@
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		border-bottom: dotted 1px;
-		color: #ffffff;
+		color: #000000;
 		text-decoration: none;
 	}
 
@@ -1708,15 +1708,15 @@
 		margin: 0 0 2em 0;
 	}
 
-	h1, h4, h5, h6 {
-		color: #000000;
+	h2, h3, h4, h5, h6 {
+		color: #ffffff;
 		font-weight: 600;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
 	}
 	
-	h2 ,h3 {
-		color: #ffffff;
+	h1  {
+		color: #000000;
 		font-weight: 600;
 		line-height: 1.65;
 		margin: 0 0 1em 0;
@@ -1852,7 +1852,7 @@
 
 			header.major > :first-child:after {
 				content: '';
-				background-color: #ffffff;
+				background-color: #000000;
 				display: block;
 				height: 2px;
 				margin: 0.325em 0 0.5em 0;
