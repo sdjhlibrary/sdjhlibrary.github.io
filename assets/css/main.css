@@ -1641,7 +1641,7 @@
 
 	body, input, select, textarea {
 		color: #ffffff;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		font-family: Microsoft JhengHei, Helvetica, sans-serif;
 		font-size: 17pt;
 		font-weight: 300;
 		letter-spacing: 0.025em;
@@ -3525,7 +3525,7 @@
 		}
 
 		#banner.style2:after {
-			background-color: #c0b3ff;
+			background-color: #00B8B8;
 		}
 
 		#banner.style3:after {
